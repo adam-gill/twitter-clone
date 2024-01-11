@@ -7,6 +7,15 @@
 - Store user and post data with Prisma and MongoDB
 - Deployed via Vercel
 
+## Technologies
+- Next.js
+- React.js
+- NextAuth
+- Tailwind CSS
+- Prisma
+- MongoDB
+- Vercel
+
 
 <img width="1461" alt="Screenshot 2024-01-10 at 21 56 52" src="https://github.com/adam-gill/twitter-clone/assets/110919227/d434297a-fd51-4c7a-8dc0-7859b0b6b4e7"/>
 

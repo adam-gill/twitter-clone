@@ -7,6 +7,7 @@ import Header from "@/components/Header";
 import Form from "@/components/Form";
 import PostItem from "@/components/posts/PostItem";
 import CommentFeed from "@/components/posts/CommentFeed";
+import Head from "next/head";
 
 
 const PostView = () => {
@@ -25,6 +26,9 @@ const PostView = () => {
 
   return ( 
     <>
+      <Head>
+        <title>{fetchedPost?.user.name}&#39;s post</title>
+      </Head>
       <Header showBackArrow label="Post" />
       <PostItem data={fetchedPost} />
       <Form postId={postId as string} isComment placeholder="Post your reply" />

@@ -1,4 +1,4 @@
-### Fullstack X (Twitter) Clone
+# <a href="https://bird-clone-beige.vercel.app/">Fullstack X (Twitter) Clone</a>
 ## Features
 - User authentication with NextAuth
 - Like, comment, and follow features

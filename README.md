@@ -17,5 +17,5 @@
 - Vercel
 
 
-<a href="https://bird-clone-beige.vercel.app/" <img width="1461" alt="Screenshot 2024-01-10 at 21 56 52" src="https://github.com/adam-gill/twitter-clone/assets/110919227/d434297a-fd51-4c7a-8dc0-7859b0b6b4e7"/></a>
+<a href="https://bird-clone-beige.vercel.app/"><img width="1461" alt="Screenshot 2024-01-10 at 21 56 52" src="https://github.com/adam-gill/twitter-clone/assets/110919227/d434297a-fd51-4c7a-8dc0-7859b0b6b4e7"/></a>
 
